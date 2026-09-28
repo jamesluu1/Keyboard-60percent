@@ -1,10 +1,10 @@
 Footprint,Quantity,Value
 RaspberryPi_Pico_Common_THT,1,RaspberryPi_Pico
 1N4148 Diode,61,1N4148
-STAB_MX_2u,1,MX_stab
-STAB_MX_2.25u,2,MX_stab
-STAB_MX_2.75u,1,MX_stab
-STAB_MX_P_6.25u,1,MX_stab
-SW_MX_1u,61,SW_Push
+Stabiliser CHerry_MX_2u,1,MX_stab
+Stabiliser CHerry_MX_2.25u,2,MX_stab
+Stabiliser Cherry_MX_2.75u,1,MX_stab
+Stabiliser Cherry_MX_P_6.25u,1,MX_stab
+Switch Cherry_MX_1u,61,SW_Push
 0.91 inch Oled display,1,ER_OLEDM0.91_1x-I2C
 Custom 3d printed case,1, 3dprinted case
