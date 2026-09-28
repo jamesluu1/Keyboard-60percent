@@ -38,3 +38,5 @@ Instructions
 4.wire it up
 
 5. Design a case
+
+6.Create firmware
