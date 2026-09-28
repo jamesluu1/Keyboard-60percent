@@ -23,3 +23,12 @@ PCB
 
 <img width="454" height="238" alt="image" src="https://github.com/user-attachments/assets/8f1035a1-7524-47d0-9ebc-94ecbdaba7f1" />
 Schematic
+
+
+
+Instructions
+1.Add 61 cherry mx switches as well as all other components, wire them together and for switches make them into rows and column each row or column to a different gpio pin
+2. Wire 0.91 inch oled display
+3. turn into pcb and set up the layout including the stabilisers in their correct position
+4.wire it up
+5. Design a case
